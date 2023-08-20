@@ -1,0 +1,123 @@
+.nav-link{
+  color: black;
+}
+.sign-in{
+  background-color: #21B573;
+  color: white;
+  border-radius: 20px;
+  padding: 5px 23px 8px 23px;
+}
+.logoimg{
+  width: 200px;
+}
+.topcont{
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.illustimg{
+  width: 700px;
+}
+.firsth6{
+  color: #FD511A;
+}
+.firstspan{
+  color: #21B573;
+}
+.firxth2{
+  font-weight: 700;
+  font-size: 45px;
+}
+.mastercont{
+  background-color: #F0FFF0;
+  padding-bottom: 50px;
+}
+.booksec{
+  width: 280px;
+  height: 280px;
+  border-radius: 8px;
+}
+.booksecimg{
+  width: 70px;
+  margin-bottom: 10%;
+}
+.eich5{
+  margin-bottom: 5%;
+  font-weight: 700;
+}
+.bookbg{
+  background-color: #F8FFFB;
+}
+.imgref{
+  box-shadow: 5px 5px 10px lightgray;
+}
+.bookcont{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.bycourse{
+  background-color: #21B573;
+  color: white;
+  border-radius: 100px;
+  padding: 5px 20px 8px 20px;
+  text-decoration: none;
+}
+.card-img-top{
+  padding: 20px;
+}
+.coursecont{
+  margin-bottom: 120px;
+}
+.calimg{
+  width: 20px;
+}
+.card-footer{
+  color: #585859;
+  border: 0px;
+  background-color: white;
+}
+.och2{
+  margin-bottom: 70px;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  color: #413960;
+
+}
+.testh2{
+  margin-bottom: 70px;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  color: black;
+}
+.menimg{
+  height: 80px;
+}
+.pdiv{
+  margin-left: 30px;
+}
+.link-offset-2{
+  text-decoration: none;
+  color: white;
+}
+.huiop{
+  color: white;
+}
+.lastcondiv{
+  background-color: #282531;
+}
+.lastcontainer{
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.lastbold{
+  font-weight: 700;
+}
+.coppy{
+  background-color: #282531;
+}
+.coppyp{
+  text-align: center;
+  color: rgb(179, 179, 179);
+  margin-bottom: 0px;
+}
